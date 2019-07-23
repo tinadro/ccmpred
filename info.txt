@@ -1,0 +1,9 @@
+PflA all epsilon proteins aligned:
+Final fx = 46370.558594
+xnorm = 10.2201
+
+PflB all epsilom proteins aligned:
+Final fx = 48423.050781
+xnorm = 9.82117
+
+
